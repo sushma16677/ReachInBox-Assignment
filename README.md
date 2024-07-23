@@ -6,9 +6,6 @@ Typescript
 React
 Tailwind css
 
-Deployment
-The application is deployed on netlify and can be accessed here.
-
 Demo Video :-
 
 
