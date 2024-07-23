@@ -19,8 +19,10 @@ Landing Page
 ![Landing page](https://github.com/user-attachments/assets/3bd2ea89-e8dc-4e0d-b5b7-730beee65939)
 
 Deshboard with Dark Mode
+![Dashboard dark mode](https://github.com/user-attachments/assets/d92ac2b9-a78b-4b72-869e-876465776414)
 
 Dashboard with Light Mode
+![Dashboard](https://github.com/user-attachments/assets/2a12d89b-742e-4d45-94d0-1b69b996a734)
 
 Delete Email
 ![Delete](https://github.com/user-attachments/assets/af0e4c10-cb64-4ee6-a6fc-c3f6b19ee82f)
