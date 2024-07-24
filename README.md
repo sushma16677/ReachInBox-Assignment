@@ -26,7 +26,7 @@ Delete Email
 
 How to Run:
 Installation
-Clone the repository
+Clone the repository:https://github.com/sushma16677/ReachInBox-Assignment
 Navigate to the project directory: cd reachinbox
 Install the dependencies: npm install
 Start the development server: npm run start
