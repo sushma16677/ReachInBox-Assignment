@@ -1,6 +1,9 @@
 Overview
 This repository contains the code for Reachinbox  App using React with Typescript 
 
+Deployment link
+https://reachinbox-frontend.netlify.app/
+
 Technologies Used 
 Typescript
 React
